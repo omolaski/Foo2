@@ -1,0 +1,26 @@
+https://member3.smarterasp.net/account/account_screen
+
+
+
+
+
+
+
+==============================================================
+
+FTP Login
+Ftp address: ftp.smarterasp.net
+Ftp username: omolajat-001
+Ftp password: (same as your hosting password)
+
+Temporary Url for testing
+-http://omolajat-001-site1.htempurl.com
+
+
+
+
+================================DATABASE===========================
+
+MSSQL: sql5031.site4now.net
+Username: DB_A39A99_omolajat_admin
+Database name: DB_A39A99_omolajat
